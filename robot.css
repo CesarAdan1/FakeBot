@@ -1,0 +1,60 @@
+
+*{
+    font-family: Arial;
+}
+
+#roboto{
+    width: 50%;
+    margin: 40px auto;
+
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.message__text{
+    display: block;
+    background-color: white;
+    color: black;
+
+    padding: 10px;
+    border-radius: 20px;
+    width: 50%;
+    margin: 15px auto;*/
+    text-align: center;
+}
+
+.message__bot{
+    display: block;
+    background-color: white;
+    color:black;
+    margin: auto;
+    padding: 5px;
+    border-radius: 20px;
+    /*width: 50%;  */
+    margin: 15px auto;
+    text-align: center;
+}
+
+.input__text{
+    display: block;
+    width: 25%;
+    margin: 15px auto;
+    display: center;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.button__get{
+   /* width: 75%;*/
+   display: block;
+    margin: 15px auto;
+    margin-top: 0;
+    background-color: red;
+    color: white;
+    
+    text-align: center;
+}
